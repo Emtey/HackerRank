@@ -1,2 +1,3 @@
 # HackerRank
-Code from doing the HackerRank challenges.
+C# Code from doing the HackerRank challenges.
+
